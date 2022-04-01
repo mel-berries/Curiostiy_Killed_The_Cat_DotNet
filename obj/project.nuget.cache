@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkxqCABZGwuvp6Z/weapGDlxkkD8O0pQ5jYcqyNrczqFJNd9c4M0lVyx1UciNRiAqo1TqVq1014nYvoxW1XOFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tacti\\OneDrive\\Documents\\Projects\\Curiosity_Killed_The_Cat_net\\missionCuriosity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tacti\\.nuget\\packages\\csvhelper\\27.2.0\\csvhelper.27.2.0.nupkg.sha512",
+    "C:\\Users\\tacti\\.nuget\\packages\\ironxl.excel\\2022.3.0\\ironxl.excel.2022.3.0.nupkg.sha512",
+    "C:\\Users\\tacti\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\tacti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tacti\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
